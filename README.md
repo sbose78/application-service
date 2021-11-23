@@ -17,7 +17,7 @@ To test the code:
 make test
 ```
 
-To build the docker image of the operator one can run:
+To build the docker image of the operator one can run..
 
 ```
 make docker-build
