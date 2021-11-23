@@ -40,6 +40,6 @@ The image being pushed can again be modified using the environment variable:
 IMG=quay.io/user/hasoperator:next make docker-push
 ```
 
-
+.
 Useful links:
 * [HAS Project information page](https://docs.google.com/document/d/1axzNOhRBSkly3M2Y32Pxr1MBpBif2ljb-ufj0_aEt74/edit?usp=sharing)
