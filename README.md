@@ -76,7 +76,7 @@ The token that is used here must have the following permissions set:
 In addition to this, the GitHub token must be associated with an account that has write access to the GitHub organization you plan on using with HAS (see next section).
 
 For example, on OpenShift:
-<img width="862" alt="Screen Shot 2021-12-14 at 1 08 43 AM" src="https://user-images.githubusercontent.com/6880023/145942734-63422532-6fad-4017-9d26-79436fe241b8.png">
+<img width="862" alt="Screen Shot 2021-12-14 at 1 08 43 AM" src="https://user-images.githubusercontent.com/6880023/145942734-63422532-6fad-4017-9d26-79436fe241b8.png">fdsfdsfds
 
 ### Deploying HAS
 
