@@ -78,7 +78,7 @@ In addition to this, the GitHub token must be associated with an account that ha
 For example, on OpenShift:
 <img width="862" alt="Screen Shot 2021-12-14 at 1 08 43 AM" src="https://user-images.githubusercontent.com/6880023/145942734-63422532-6fad-4017-9d26-79436fe241b8.png">
 
-### Deploying HAS
+## Deploying HAS
 
 
 Once a secret has been created, simply run the following commands to deploy HAS:
